@@ -4,5 +4,6 @@ then
     # if the keyword is in the conent
     echo " the website is working fine"
 else
-    exit 9
+    echo "ERROR"
+    exit 1
 fi
