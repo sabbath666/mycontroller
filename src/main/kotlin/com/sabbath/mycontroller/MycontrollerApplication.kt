@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController
 @RestController
 class MycontrollerApplication{
     @GetMapping("/test")
-    fun test()="hello sabbath"
+    fun test()="hello refi"
 }
 
 fun main(args: Array<String>) {
