@@ -5,5 +5,5 @@ then
     echo " the website is working fine"
 else
     echo "ERROR"
-    exit 1
+    exit 0
 fi
